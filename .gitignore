@@ -1,2 +1,8 @@
+# Maven generated files #
+#########################
+target
+
+# IDEA project file #
+#####################
 .idea
 *.iml
